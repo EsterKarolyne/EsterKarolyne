@@ -17,7 +17,7 @@
   <img align="center" alt="img-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 
-  <img align="right" alt="tete" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="tete" src="https://picasion.com/][IMG]https://i.picasion.com/pic91/09814af7b5fe675871733a4793024657.gif[/IMG][/URL][URL=https://picasion.com/]https://picasion.com">
 </div>
 
 ##
