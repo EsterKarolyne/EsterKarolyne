@@ -6,7 +6,7 @@
 
 ## My name is Ester Karolyne
 (React JS | Node JS | JavaScript | AWS | Next JS | Typescript | HTML | CSS ) 🚀
-- 👩‍💻 Software Enginner in CI&T
+- 👩‍💻 Software Enginner at CI&T
 - 🎓 College of software engineering
 - 💡 I study daily and dedicate myself to solving challenges that drive my professional growth
 
